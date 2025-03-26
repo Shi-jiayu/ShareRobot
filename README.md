@@ -115,7 +115,7 @@ For **Trajectory**, we have 6,870 images and each with at least 3 {x, y} coordin
 ```json
 {
  "id"{
-        "id": "/mnt/hpfs/baaiei/jyShi/rt_frames_success/rtx_frames_success_42/62_robo_set#episode_1570",
+        "id": 0,
         "task": "Future_Prediction_Task",
         "selected_step": 3,
         "conversations": [
